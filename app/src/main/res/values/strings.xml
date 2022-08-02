@@ -2,4 +2,6 @@
     <string name="app_name">MyGymProject</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="retry">Reintentar</string>
+    <string name="on_activities_loading_error">Something went wrong, couldn\'t load Activities</string>
 </resources>
